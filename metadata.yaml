@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '42125'
     url: http://www.gutenberg.org/2009/agents/42125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43307#Principes-de-la-Philosophie-de-l-Histoiretraduits-de-la-Scienza-nuova-
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
