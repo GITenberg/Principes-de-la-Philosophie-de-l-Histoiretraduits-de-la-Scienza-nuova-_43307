@@ -1,0 +1,41 @@
+_repo: Principes-de-la-Philosophie-de-l-Histoiretraduits-de-la-Scienza-nuova-_43307
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Michelet, Jules
+    alias: Michelet, J.
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '8214'
+    url: http://www.gutenberg.org/2009/agents/8214
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Michelet
+    - http://en.wikipedia.org/wiki/Jules_Michelet
+covers:
+- cover_type: archival
+  image_path: 43307-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Vico, Giambattista
+    alias: Vico, G. (Giambattista)
+    birthdate: 1668
+    deathdate: 1744
+    gutenberg_agent_id: '42125'
+    url: http://www.gutenberg.org/2009/agents/42125
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43307'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'History -- Philosophy'
+title: 'Principes de la Philosophie de l''Histoire
+
+  traduits de la ''Scienza nuova'''
+url: http://www.gutenberg.org/ebooks/43307
